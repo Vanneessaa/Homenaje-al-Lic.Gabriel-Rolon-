@@ -1,0 +1,102 @@
+** start of undefined **
+
+<!DOCTYPE  html>
+<html long="en">
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<style>@import url(es.wikipedia.org/wiki/Gabriel_Rol%C3%B3n);</style>
+<link rel="stylesheet" href="styles.css">
+<header>    
+ <meta chanset="UTF-8">
+  <h1 id="title">Lic.Gabriel Rolon</h1>
+	</html>
+</header>
+
+<main id="main">
+	<figure id="img-div">
+		<img class="center" id="image" src="https://elrincondelconocimiento.com/wp-content/uploads/2020/05/Gabriel-Rol%C3%B3n-2.jpg" alt="Gabriel Rolon Photo max-width="100%"heigth="auto"/>
+		<figcaption id="img-caption">Lic.Gabriel Rolon</figcaption>
+	</figure>
+
+	<div id="tribute-info">
+<div id="image">		<p><strong>psicoanalista.</strong></p><br>
+
+    	<ul>
+    		<li><strong>1961: </strong>Nacimiento: 1 de noviembre de 1961 (60 años), Ramos Mejía (Argentina)</li>
+    		<li><strong> Rolón estudió en la Facultad de Psicología de la Universidad de Buenos Aires, donde se graduó. Posee además, una especialización en psicoanálisis. </li></strong>
+    		<li><strong> </strong>Escribió los libros: Historias de diván, Palabras Cruzadas, Los Padecientes, Encuentros (el lado B del amor), Medianoche en Buenos Aires, Historias Inconscientes, Cara a Cara, La voz Ausente, El precio de la pasión Ha colaborado escribiendo columnas en diversos medios gráficos, entre los que destacan "La Mujer de mi Vida", Psicología Positiva y la Revista cultural Quid.</li>
+    		<li><strong> </strong>Sus propuestas teatrales (Charlas de diván, Entrevista abierta, Mano a Mano, Historias de diván, El amor y las pasiones, Medianoche en Buenos Aires, El lado B del amor) recorrieron varios países y fueron vistos por cientos de miles de espectadores.</li>
+    		<li><strong></strong>Más allá de sus actividades artísticas, dicta Seminarios Clínicos, es orador en Congresos Psicoanalíticos y dicta clases magistrales en distintas universidades, más allá de las fronteras de la Argentina.</li>
+    		<li><strong> </strong>Al día de hoy, continua con la práctica clínica del Psicoanálisis.</li>
+    	</ul><br>
+<p><a id="tribute-link" href="es.wikipedia.org/wiki/Gabriel_Rol%C3%B3n" target="_blank">Click here </a></p>
+    </div>
+		</div>
+  
+</main>
+
+** end of undefined **
+
+** start of undefined **
+
+body {
+  background-color: #B8C9E1;
+}
+
+#image{
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 10px solid #0096CA;
+  border-radius: 20px;
+ BOX-SIZING: BORDER-BOX;
+}
+
+#title {
+  text-align: center;
+  color: #007FA3;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 56px;
+}
+
+p {
+  text-align: center;
+  color: #0096CA;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+
+li {
+  font-family: 'Montserrat', sans-serif;
+  color: #0096CA;
+  line-height: 2em;
+  font-size: 16px;
+}
+
+#img-caption {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: #0096CA;
+  font-size: 12px;
+  line-height: 300%;
+}
+
+#tribute-link {
+  color: #0086D6;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+html  { 
+ font: 75% verdana,sans-serif; 
+}
+ul {
+  max-width: 550px;
+  margin: 0 auto;
+}
+
+
+** end of undefined **
+
